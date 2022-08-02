@@ -1,0 +1,7 @@
+name: Event
+version: '${version}'
+main: jp.iceserver.event.Event
+api-version: 1.18
+authors: [ Minidon ]
+description: イベントサーバーを制御するためのプラグイン
+website: https://github.com/IceServerLab/Event
